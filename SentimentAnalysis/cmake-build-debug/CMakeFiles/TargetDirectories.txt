@@ -1,0 +1,3 @@
+/Users/alden.cressy/Downloads/assignment-2-don-t-be-sentimental-aldencressy-main/cmake-build-debug/CMakeFiles/sentiment.dir
+/Users/alden.cressy/Downloads/assignment-2-don-t-be-sentimental-aldencressy-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alden.cressy/Downloads/assignment-2-don-t-be-sentimental-aldencressy-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
